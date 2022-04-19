@@ -1,0 +1,4 @@
+Hello !
+I am the content of file 1. But you copied me into file 2.
+Now, I belong to file 2 as well
+Anyway Happy coding !!

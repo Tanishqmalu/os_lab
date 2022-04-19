@@ -1,0 +1,12 @@
+Just some random text !
+Thread are not process.
+Os is best subject
+I will be written in p2
+thread 1 will print prime line
+thread 2 will print non prime lines
+thread 3 will count the number of character in each line
+i am file p1
+bye bye fellas
+stay safe
+wear mask
+corona go go corona
